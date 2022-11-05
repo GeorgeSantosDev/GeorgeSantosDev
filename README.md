@@ -71,7 +71,7 @@
 <br>
  
 <h3>Conecte-se</h3>
-<a href="www.linkedin.com/in/george-santos-dev" rel="nofollow">
+<a href="https://www.linkedin.com/in/george-santos-dev" rel="nofollow">
   <img
     height="50px"
     width="50px"
