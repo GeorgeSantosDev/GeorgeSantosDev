@@ -65,7 +65,13 @@
     width="50px"
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"
     alt="Node"
-  />  
+  />
+  <img
+    height="50px"
+    width="50px"
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg"
+    alt="Mocha"
+  /> 
 </div>
 
 <br>
