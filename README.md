@@ -1,5 +1,5 @@
 ### <h1>Olá, eu sou o George! 👋</h1>
-<p>Formado em Química Industrial pela UFMG, estou fazendo uma transição de carreira para área de tecnologia. Atualmente sou pessoa estudande na Trybe e tenho me aventurado nos estudos de BackEnd, mais especificamente, Node.js.</p>
+<p>Formado em Química Industrial pela UFMG, estou fazendo uma transição de carreira para área de tecnologia. Atualmente sou pessoa estudande na Trybe e tenho me aventurado nos estudos de BackEnd, mais especificamente, MongoDB.</p>
 
 <h2>Linguagens e Ferramentas</h2>
 <div>
