@@ -1,5 +1,6 @@
 ### <h1>Olá, eu sou o George! 👋</h1>
-<p>Formado em Química Industrial pela UFMG, estou fazendo uma transição de carreira para área de tecnologia. Atualmente sou pessoa estudande na Trybe e tenho me aventurado nos estudos de BackEnd, mais especificamente, MongoDB.</p>
+<p>Formado em Química Industrial pela UFMG, estou fazendo uma transição de carreira para área de tecnologia. Atualmente sou pessoa estudande na Trybe e tenho me aventurado nos estudos de BackEnd, mais especificamente, MongoDB e reforçando meus conhecimentos de FrontEnd com Vue.js nas trilhas de 
+  apredizagem da Alura</p>
 
 <h2>Linguagens e Ferramentas</h2>
 <div>
