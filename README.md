@@ -1,6 +1,6 @@
 ### <h1>Olá, eu sou o George! 👋</h1>
 <p>
-  Sou o George, um entusiasta de tecnologia de Belo Horizonte-MG, apaixonado por matemática, ciências e tecnologia. Sou graduado em Química Tecnológica pela UFMG, onde adquiri valiosa experiência em análise instrumental, mas logo percebi que minha verdadeira paixão estava na programação!
+ Sou um entusiasta de tecnologia de Belo Horizonte-MG, apaixonado por matemática, ciências e tecnologia. Sou graduado em Química Tecnológica pela UFMG, onde adquiri valiosa experiência em análise instrumental, mas logo percebi que minha verdadeira paixão estava na programação!
 
 Como desenvolvedor Full Stack, sou proficiente em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, React, RTL, Jest, Redux, Context API, BootStrap, Docker, MySQL, MongoDB, Node.js, TypeScript, Mongoose, Sequelize , Mocha, Chai e Sinon.
 
