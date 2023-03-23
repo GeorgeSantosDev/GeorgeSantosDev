@@ -1,6 +1,11 @@
 ### <h1>Olá, eu sou o George! 👋</h1>
-<p>Formado em Química Industrial pela UFMG, estou fazendo uma transição de carreira para área de tecnologia. Atualmente sou pessoa estudande na Trybe e tenho me aventurado nos estudos de BackEnd, mais especificamente, MongoDB e reforçando meus conhecimentos de FrontEnd com Vue.js nas trilhas de 
-  apredizagem da Alura</p>
+<p>
+  Sou o George, um entusiasta de tecnologia de Belo Horizonte-MG, apaixonado por matemática, ciências e tecnologia. Sou graduado em Química Tecnológica pela UFMG, onde adquiri valiosa experiência em análise instrumental, mas logo percebi que minha verdadeira paixão estava na programação!
+
+Como desenvolvedor Full Stack, sou proficiente em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, React, RTL, Jest, Redux, Context API, BootStrap, Docker, MySQL, MongoDB, Node.js, TypeScript, Mongoose, Sequelize , Mocha, Chai e Sinon.
+
+Sou usuário de Git e GitHub, com conhecimento em sistemas de controle de versão e experiência com metodologias ágeis como Kanban e Scrum. Atualmente, estou estudando Python no programa de desenvolvimento Full Stack na Trybe, e também estou seguindo as trilhas Next.js e React Native na Alura.
+</p>
 
 <h2>Linguagens e Ferramentas</h2>
 <div>
