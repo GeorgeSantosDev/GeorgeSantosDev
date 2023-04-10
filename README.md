@@ -1,100 +1,67 @@
-### <h1>Olá, eu sou o George! 👋</h1>
-<p>
- Sou um entusiasta de tecnologia de Belo Horizonte-MG, apaixonado por matemática, ciências e tecnologia. Sou graduado em Química Tecnológica pela UFMG, onde adquiri valiosa experiência em análise instrumental, mas logo percebi que minha verdadeira paixão estava na programação!
+## Hi, I am George! 👋
 
-Como desenvolvedor Full Stack, sou proficiente em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, React, RTL, Jest, Redux, Context API, BootStrap, Docker, MySQL, MongoDB, Node.js, TypeScript, Mongoose, Sequelize , Mocha, Chai e Sinon.
-
-Sou usuário de Git e GitHub, com conhecimento em sistemas de controle de versão e experiência com metodologias ágeis como Kanban e Scrum. Atualmente, estou estudando Python no programa de desenvolvimento Full Stack na Trybe, e também estou seguindo as trilhas Next.js e React Native na Alura.
-</p>
-
-<h2>Linguagens e Ferramentas</h2>
-<div>
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
-    alt="HTML"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"
-    alt="CSS"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
-    alt="JS"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-    alt="React"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
-    alt=Redux"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg"
-    alt="Jest"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"
-    alt="Bootstrap"
-  />
-</div>
-
-<div>
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"
-    alt="Docker"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"
-    alt="MySQL"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="Node"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg"
-    alt="Mocha"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
-    alt="Ts"
-  />
-  <img
-    height="50px"
-    width="50px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original-wordmark.svg"
-    alt="Sequelize"
-  />
-</div>
+#### I am a full stack developer from Belo Horizonte-MG.
+#### I am passionate about math, science and technology. I have a degree in Technological Chemistry from UFMG, where I gained valuable experience in instrumental analysis, but I soon realized that my true passion was in programming!
+#### I am currently studying Information Systems at XP College
 
 <br>
- 
-<h3>Conecte-se</h3>
+
+## Tech and tools
+
+#### FrontEnd
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-HTML-red" height="30px" />                                                                
+ <img src="https://img.shields.io/badge/-CSS-blue" height="30px" />
+ <img src="https://img.shields.io/badge/-JavaScript-yellow" height="30px" />
+ <img src="https://img.shields.io/badge/-React-lightgrey" height="30px" />
+ <img src="https://img.shields.io/badge/-Redux-blueviolet" height="30px" />
+ <img src="https://img.shields.io/badge/-Context%20API-orange" height="30px" />
+ <img src="https://img.shields.io/badge/-React%20Native-ff69b4" height="30px" />
+ <img src="https://img.shields.io/badge/-BootStrap-purple" height="30px" />
+</div>
+
+#### BackEnd 
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-Node.js-green" height="30px" padding="10px" />                                             
+ <img src="https://img.shields.io/badge/-Express-black" height="30px" />
+ <img src="https://img.shields.io/badge/-TypeScript-blue" height="30px" />
+ <img src="https://img.shields.io/badge/-JWT-black" height="30px" />
+</div>
+
+#### Databases
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-MySQL-critical" height="30px" />                                                                
+ <img src="https://img.shields.io/badge/-MongoDB-green" height="30px" />
+</div>
+
+#### Testing
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-Mocha-brown" height="30px" />                                                                
+ <img src="https://img.shields.io/badge/-Chai-black" height="30px" />
+ <img src="https://img.shields.io/badge/-Sinon-critical" height="30px" />                                                                
+ <img src="https://img.shields.io/badge/-Jest-orange" height="30px" />
+ <img src="https://img.shields.io/badge/-RTL-red" height="30px" />
+</div>
+
+#### Others
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-Git-orange" height="30px" />
+ <img src="https://img.shields.io/badge/-Docker-blue" height="30px" />   
+ <img src="https://img.shields.io/badge/-Sequelize-critical" height="30px" />
+ <img src="https://img.shields.io/badge/-Mongoose-green" height="30px" />
+ <img src="https://img.shields.io/badge/-Scrum-black" height="30px" />
+ <img src="https://img.shields.io/badge/-Kanban-blue" height="30px" />
+</div>
+
+#### Studying
+<div display="flex"> 
+ <img src="https://img.shields.io/badge/-Python-yellow" height="30px" />
+ <img src="https://img.shields.io/badge/-Next.js-green" height="30px" />   
+</div>
+                                                              
+<br>
+
+## Connect with me on LinkedIn
 <a href="https://www.linkedin.com/in/george-santos-dev" rel="nofollow">
   <img
     height="50px"
